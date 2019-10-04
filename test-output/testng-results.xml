@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="145" started-at="2019-04-19T08:28:04Z" finished-at="2019-04-19T08:28:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="145" started-at="2019-04-19T08:28:04Z" finished-at="2019-04-19T08:28:04Z">
+      <class name="TestScript.TestDataScript">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="11" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CustomerID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstName]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LastName]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Age]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Gender]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="1" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mathew]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="2" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Johnson]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="1" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Keith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Swanson]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[56]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="1" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jennifer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kay]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="2" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kathy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Indy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="1" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sally]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pace]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="1" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fred]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jason]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test1" duration-ms="0" started-at="2019-04-19T08:28:04Z" data-provider="TestData01" finished-at="2019-04-19T08:28:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUS08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Andrew]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Joe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test2" duration-ms="2" started-at="2019-04-19T08:28:04Z" finished-at="2019-04-19T08:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestScript.TestDataScript@262b2c86]" name="test3" duration-ms="73" started-at="2019-04-19T08:28:04Z" finished-at="2019-04-19T08:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestScript.TestDataScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
