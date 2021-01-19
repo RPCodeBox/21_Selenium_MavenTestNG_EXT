@@ -1,7 +1,7 @@
 Variable,Value
-URL,http://newtours.demoaut.com/
+URL,http://automationpractice.com/index.php
 Platform,Windows
-Browser,CHROME
+Browser,FIREFOX
 ImplicitWait,30
 CSVFILE01,./src/test/java/TestData/CH_TestData.csv
 PAGE_LOAD,50
