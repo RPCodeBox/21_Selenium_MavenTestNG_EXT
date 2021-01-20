@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.testng.maven</groupId>
-	<artifactId>SLK_MavenTestNG_Code</artifactId>
+	<artifactId>21_Selenium_MavenTestNG_EXT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TestSuite_CH</name>
 	<description>TestSuite for automation delivery</description>
